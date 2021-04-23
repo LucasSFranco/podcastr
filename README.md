@@ -1,6 +1,7 @@
-<img alt="Moveit" src=".github/icon.svg" width="160px">
-
-# Podcastr
+<h1>
+  Podcastr
+  <img alt="Moveit" src=".github/icon.svg" width="48px">
+</h1>
 
 ### 🧪 Technologies
 
